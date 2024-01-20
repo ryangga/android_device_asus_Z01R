@@ -74,5 +74,5 @@
     <bool translatable="false" name="config_wifiDriverSupportedNl80211RegChangedEvent">true</bool>
 
     <!-- Default access point SSID used for tethering -->
-    <string name="wifi_tether_configure_ssid_default" translatable="false">Asus Zenfone 5z</string>
+    <string name="wifi_tether_configure_ssid_default" translatable="false">ASUS_Z01RD</string>
 </resources>
